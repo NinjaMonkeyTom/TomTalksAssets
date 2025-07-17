@@ -1,0 +1,1 @@
+For DUD members only! Feel free to use this stuff for non commercial use. I'm going to make some tools for texture generation and some modular assets at some point. Those will also be free for non commercial use. Message me regarding use in commercial settings.
