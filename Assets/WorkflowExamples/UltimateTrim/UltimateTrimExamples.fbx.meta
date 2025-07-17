@@ -7,6 +7,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Brick_Tiling
+    second: {fileID: 2100000, guid: 0f5538df03565e24bb85f6e45b7a0b95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: NutsBolts
     second: {fileID: 2100000, guid: 9ae1a4ce2c4c01449995a45864421c56, type: 2}
   - first:
@@ -14,6 +19,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Plaster_Trim
     second: {fileID: 2100000, guid: 2d173ef00491a984682882b154571c53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stone_Tiling
+    second: {fileID: 2100000, guid: f7e77c449acfe104b86c94693d7921ba, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
